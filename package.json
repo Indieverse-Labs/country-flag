@@ -1,6 +1,6 @@
 {
   "name": "@indieverse/country-flag",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple display country flag",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
