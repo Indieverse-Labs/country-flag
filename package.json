@@ -1,7 +1,7 @@
 {
-  "name": "@indieverse/ts-lib-npm-template",
-  "version": "1.0.0",
-  "description": "A project template to bootstrap NPM package with Typescript",
+  "name": "@indieverse/country-flag",
+  "version": "0.1.0",
+  "description": "Simple display country flag",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -14,7 +14,8 @@
     "./package.json": "./package.json"
   },
   "keywords": [
-    "typescript-template"
+    "flag",
+    "country"
   ],
   "author": "effect_doplera <effectdopler0@gmail.com>",
   "license": "MIT",
